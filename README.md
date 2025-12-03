@@ -1,4 +1,4 @@
-<h2 id="data-preparation-guide">🎯 Hướng Dẫn Chi Tiết Chuẩn Bị Dữ Liệu cho YOLOv4 (WSI/Tế bào học)</h2>
+<h2 id="data-preparation-guide">🎯 Hướng Dẫn Chi Tiết Chuẩn Bị Dữ Liệu cho YOLOv10 (WSI/Tế bào học)</h2>
 
 <p>Việc chuẩn bị dữ liệu đúng định dạng là bước quan trọng nhất để huấn luyện mô hình Object Detection (Phát hiện vật thể).</p>
 
